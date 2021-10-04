@@ -1,0 +1,11 @@
+.footer-container{
+    color: whitesmoke;
+    background-color: #09212A;
+    position: fixed;
+    left: 0px;
+    bottom: 0px;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    padding-top: 15px;
+}

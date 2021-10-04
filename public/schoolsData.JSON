@@ -1,0 +1,65 @@
+[
+  {
+    "className": "Plee",
+    "img": "https://images.theconversation.com/files/82605/original/image-20150521-1001-1ex9l0n.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip",
+    "startingDate": "January 01, 2022",
+    "describe": "Dependable student loans with no fees and fixed rates so you can focus on your education. Pick the loan that's right for you.",
+    "fee": "50"
+  },
+  {
+    "className": "Ka",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr8xLIvlHZCJzDDzz_bnaibh71gBHho80SCLQ1wobz_oBprVoZAPrSXQuVteQt2HeGj5s&usqp=CAU",
+    "startingDate": "January 01, 2022",
+    "describe": "Dependable student loans with no fees and fixed rates so you can focus on your education. Pick the loan that's right for you.",
+    "fee": "55"
+  },
+  {
+    "className": "Kha",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3lz_YfyeiJcHlI7NYbHAkDeh4ICvKksfkU2HyUE2EWMq1mIc1UcCuhk7uzOVf0OAgTtQ&usqp=CAU",
+    "startingDate": "January 01, 2022",
+    "describe": "Dependable student loans with no fees and fixed rates so you can focus on your education. Pick the loan that's right for you.",
+    "fee": "65"
+  },
+  {
+    "className": "Nursery",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1aDUbPNHJv87d5rbbRnlBojMjdhaleXTOG_vKcMsXwLPF3Q30BxcAg1Bc5hJI30mBfVY&usqp=CAU",
+    "startingDate": "January 01, 2022",
+    "describe": "Dependable student loans with no fees and fixed rates so you can focus on your education. Pick the loan that's right for you.",
+    "fee": "70"
+  },
+  {
+    "className": "One",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3xmYzGHQQVXohJAIbgTctgdbIXI-Zx16CE9MespBGRFHcjgmGIPArCBLo3e7jKhfJ_yY&usqp=CAU",
+    "startingDate": "January 01, 2022",
+    "describe": "Dependable student loans with no fees and fixed rates so you can focus on your education. Pick the loan that's right for you.",
+    "fee": "75"
+  },
+  {
+    "className": "Two",
+    "img": "https://images.ctfassets.net/p0qf7j048i0q/51AA4362F1944F86A10EF205BBDCB757_en-US/5f026f945eb00e6337ba5b3d341d81d6/i1136539278.jpg?w=1000&h=750&fit=fill&fm=webp",
+    "startingDate": "January 01, 2022",
+    "describe": "Dependable student loans with no fees and fixed rates so you can focus on your education. Pick the loan that's right for you.",
+    "fee": "80"
+  },
+  {
+    "className": "Three",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8sDlaAvm7zE98Tdx6vW5oOVZM3gw1ece8Evv9BqQI5WFxIJWW1GmTPdovKsRTyTdOXsM&usqp=CAU",
+    "startingDate": "January 01, 2022",
+    "describe": "Dependable student loans with no fees and fixed rates so you can focus on your education. Pick the loan that's right for you.",
+    "fee": "85"
+  },
+  {
+    "className": "Four",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS95RUs3246EZOfeNDyCk3k794GuOrsA1vr9E02LJiVNuW-zWztiz3VEmF75G5EyarbSEw&usqp=CAU",
+    "startingDate": "January 01, 2022",
+    "describe": "Dependable student loans with no fees and fixed rates so you can focus on your education. Pick the loan that's right for you.",
+    "fee": "90"
+  },
+  {
+    "className": "Five",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGrYLhsJx_WgXbqVsP1vJbDFdGiHAHtcd6higK6u_pBX01L1ZMbBl8btPpXfZ_YaR9lZM&usqp=CAU",
+    "startingDate": "January 01, 2022",
+    "describe": "Dependable student loans with no fees and fixed rates so you can focus on your education. Pick the loan that's right for you.",
+    "fee": "95"
+  }
+]

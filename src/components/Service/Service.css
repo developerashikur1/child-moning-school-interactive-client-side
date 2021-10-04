@@ -1,0 +1,14 @@
+.card Img{
+    background-repeat:no-repeat; 
+    background-position:center;
+    height: 180px;
+}
+.course{
+    font-weight: 400;
+}
+.price{
+    background-color: #6161611f;
+    padding:5px;
+    border-radius: 5px;
+    display: inline;
+}

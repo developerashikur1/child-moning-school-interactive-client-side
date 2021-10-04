@@ -1,0 +1,13 @@
+.header-container{
+    background-color: whitesmoke;
+    line-height: 5rem;
+    padding-left: 10rem;
+}
+
+.nav{
+    color: #09212A;
+    font-size: 1.5rem;
+    font-weight: 400;
+    text-decoration: none;
+    margin-right: 35px;
+}

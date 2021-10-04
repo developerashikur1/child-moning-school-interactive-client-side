@@ -1,0 +1,22 @@
+.home-container{
+    background:linear-gradient(0deg, rgba(46, 46, 46, 0.685), rgba(0, 0, 0, 0.3)), url("https://image.freepik.com/free-photo/students-knowing-right-answer_329181-14271.jpg");
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size:cover;
+    height: 50rem;
+    padding-top: 50px;
+    z-index: 9999;
+}
+
+.heading{
+    background-color: rgba(0, 0, 0, 0.425);
+    font-size: 3rem;
+    font-weight: 700;
+    text-align: center;
+    color: white;
+    line-height: 90px;
+    width: 50%;
+    margin: auto;
+    border-radius: 5px;
+    box-shadow: 5px 5px 50px rgba(0, 0, 0, 0.63);
+}
