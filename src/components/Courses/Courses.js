@@ -6,6 +6,7 @@ import './Courses.css';
 
 const Courses = () => {
 
+    
     // fake hooks
     const [courses, setCourses] = useCourses([])
 
