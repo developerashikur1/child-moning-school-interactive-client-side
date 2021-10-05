@@ -1,0 +1,35 @@
+/* card and card image */
+.course-image{
+    overflow: hidden;
+}
+
+.card:hover Img{
+    transform: scale(1.2);
+    transition: ease-in 1s;
+}
+
+.course-image Img{
+    background-repeat:no-repeat; 
+    background-position:center;
+    height: 180px;
+}
+.card:hover{
+    transform: scale(1.02);
+    transition: ease-in .3s;
+    cursor: pointer;
+    box-shadow: 3px 3px 5px rgba(100, 73, 0, 0.295);
+}
+
+
+/* card body */
+
+.course{
+    font-weight: 400;
+}
+
+.price{
+    background-color: #6161611f;
+    padding:5px;
+    border-radius: 5px;
+    display: inline;
+}

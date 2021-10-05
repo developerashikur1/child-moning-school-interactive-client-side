@@ -1,6 +1,8 @@
 .notFound{
     text-align: center;
     width: auto;
+    height: 50rem;
+    padding-top: 15%;
 }
 
 .notFound h1 {

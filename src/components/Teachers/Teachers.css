@@ -1,0 +1,8 @@
+.teacher-card{
+    overflow: hidden;
+}
+.teacher-img:hover{
+    transform: scale(1.2);
+    transition: ease-in .5s;
+    cursor: pointer;
+}
